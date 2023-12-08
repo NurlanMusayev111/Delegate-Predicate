@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\bin\Debug\net6.0\Delegate-pradicate-practice.exe
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\bin\Debug\net6.0\Delegate-pradicate-practice.deps.json
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\bin\Debug\net6.0\Delegate-pradicate-practice.runtimeconfig.json
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\bin\Debug\net6.0\Delegate-pradicate-practice.dll
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\bin\Debug\net6.0\Delegate-pradicate-practice.pdb
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.dll
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\refint\Delegate-pradicate-practice.dll
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.pdb
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\Delegate-pradicate-practice.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Delegate-pradicate-practice\Delegate-pradicate-practice\obj\Debug\net6.0\ref\Delegate-pradicate-practice.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delegate-prdicate-HOMEWORK/1.0.0": {
+        "runtime": {
+          "Delegate-prdicate-HOMEWORK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate-prdicate-HOMEWORK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

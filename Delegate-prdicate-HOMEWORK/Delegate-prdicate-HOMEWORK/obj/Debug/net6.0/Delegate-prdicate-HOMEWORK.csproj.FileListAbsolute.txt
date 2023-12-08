@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\bin\Debug\net6.0\Delegate-prdicate-HOMEWORK.exe
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\bin\Debug\net6.0\Delegate-prdicate-HOMEWORK.deps.json
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\bin\Debug\net6.0\Delegate-prdicate-HOMEWORK.runtimeconfig.json
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\bin\Debug\net6.0\Delegate-prdicate-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\bin\Debug\net6.0\Delegate-prdicate-HOMEWORK.pdb
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\refint\Delegate-prdicate-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.pdb
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\Delegate-prdicate-HOMEWORK.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Delegate-prdicate-HOMEWORK\Delegate-prdicate-HOMEWORK\obj\Debug\net6.0\ref\Delegate-prdicate-HOMEWORK.dll
